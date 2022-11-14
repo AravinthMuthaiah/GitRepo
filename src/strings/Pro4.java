@@ -13,6 +13,13 @@ public class Pro4 {
 		System.out.println("4");
 		System.out.println("5");
 		System.out.println("6");
+		
+		//American 1st code
+		System.out.println("7");
+		System.out.println("8");
+		System.out.println("9");
+		System.out.println("10");
+		System.out.println("11");
 	}
 
 }
